@@ -1,0 +1,108 @@
+body{
+	background-image: url("https://d33wubrfki0l68.cloudfront.net/5350d89444a5a4848cb7703ddf216d5dec686bdb/ae6ee/static/head.067b05ac.png");
+	background-size: cover;
+  background-position: center;
+  font-family: 'Coming Soon', cursive;
+}
+
+
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+
+
+
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+  .img_div{
+	float: left;
+	width: 50%;
+	padding: 5px;
+  }
+  .menu_div{
+	width: 50%;
+	padding: 160px;
+	color: honeydew;
+	font-size: 25px;
+  }
+ 
+
+
+  
+
+
+
+.topnav {
+	overflow: hidden;
+	background-color: black;
+	position:sticky;
+	top: 0;
+    width: 100%;
+    font-family: 'Coming Soon', cursive;
+  }
+  
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  font-family: 'Coming Soon', cursive;
+  }
+  
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+
+  .topnav-right {
+	float: right;
+  }
+
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+
+  .link{
+    text-align: center;
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    font-family: 'Coming Soon', cursive;
+  }
+
+  ol.menulist>li
+{
+	padding-bottom:20px;
+}
+
+ 
+div.card {
+  flex: 0 0 30%;
+box-sizing: border-box;
+color:black;
+margin: 0.5rem .18em;
+background-color: antiquewhite;
+align-items: center;
+font-size: medium;
+}
